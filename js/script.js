@@ -60,7 +60,7 @@ const config = {
         ],
         ADMIN: [
             {
-                inGameName: "LAUTARO900HK",
+                inGameName: "LUFTWAFFE",
                 rank: "ADMIN",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
